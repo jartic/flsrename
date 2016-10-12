@@ -66,7 +66,7 @@ public class FlsMainFrame extends JFrame {
 	}
 
 	public boolean initFrame() {
-		this.setTitle("jartic, www.javaartic.eu.pn");
+		this.setTitle("jartic, www.javaartic.eu.pn - it's my link");
 		//
 		mainPanel.setBorder(BorderFactory.createEmptyBorder(BOR, BOR, BOR, BOR));
 		mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
